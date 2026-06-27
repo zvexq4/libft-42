@@ -1,0 +1,11 @@
+# Object files
+*.o
+
+# Static library
+*.a
+
+# Executables
+a.out
+
+# macOS
+.DS_Store
